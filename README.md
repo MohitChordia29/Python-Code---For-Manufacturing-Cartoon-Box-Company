@@ -6,10 +6,7 @@ A manufacturing owner wants to calculate the prices of various Cartoon Boxes bas
 The code should work in such a way that once the size of the Cartoon box is entered by the user with all the other box specifications required in the manufacturing, the program should display the details for the manufacturing to take place with all other pricing details and calculations.  
 
 Inputs from the Owner:  
-Cartoon Box size: (Length, Breadth, Height) in Inches 
-
-Number of Ply used: It can vary from (3,5,7,9,12,...) 
-
-Paper Details: As mentioned by the owner (various options). 
-
-Calculation Formulas: As mentioned by the owner (various options).
+- Cartoon Box size: (Length, Breadth, Height) in Inches 
+- Number of Ply used: It can vary from (3,5,7,9,12,...) 
+- Paper Details: As mentioned by the owner (various options). 
+- Calculation Formulas: As mentioned by the owner (various options).
